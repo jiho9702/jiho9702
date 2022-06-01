@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello This is My github page😀
+
+---
+# 🌟Introduce Myself🌟
+#
+##### My name is Lee jiho
+##### Im in Korea
+##### I am in Dong-Eui College
 
 <!--
 **jiho9702/jiho9702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
