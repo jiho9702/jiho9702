@@ -32,7 +32,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebluerabbit&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho9702&show_icons=true&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
 
 E-mail : <a>jiho9707@gmail.com</a>
