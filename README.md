@@ -12,7 +12,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho9702&count_private=true&show_icons=true&theme=)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho9702&layout=compact)](https://github.com/****/github-readme-stats)
+<br />    
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=jiho9707)](https://solved.ac/profile/****)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
@@ -30,9 +32,7 @@
 <br />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho9702&layout=compact)](https://github.com/****/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=jiho9707)](https://solved.ac/profile/****)
+<br />
 
 
 E-mail : <a>jiho9707@gmail.com</a>
