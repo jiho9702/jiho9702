@@ -14,7 +14,9 @@
 <div> -->
 <br />
 
-<center>![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho9702&count_private=true&show_icons=true&theme=)</center>
+<center>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho9702&count_private=true&show_icons=true&theme=)
+</center>
 
 
 <div align="center">
