@@ -1,6 +1,9 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Jiho's%20GitHub&descAlign=70.&descAlignY=44)
 
-### <center> 안녕하세요 이지호 입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiho9702%2Fhit-counter&count_bg=%23B0B0FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) </center>
+<center>
+### 안녕하세요 이지호 입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiho9702%2Fhit-counter&count_bg=%23B0B0FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+</center>
+
 <br />
 <br />
 <div align='center'>
