@@ -1,17 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=B2B2FF&height=200&section=header&text=Hi%20there👋&fontSize=90&fontAlign=70&rotate=13&fontAlignY=0&desc=Jiho's%20Github&descAlign=70&descAlignY=1)
+![header](https://capsule-render.vercel.app/api?type=slice&color=B2B2FF&height=200&section=header&text=Hi%20👋&fontSize=90&fontAlign=70&rotate=13&fontAlignY=0&desc=Jiho's%20Github&descAlign=70&descAlignY=1)
 
 <div align = center>
     <h3> 안녕하세요 이지호 입니다. <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiho9702%2Fhit-counter&count_bg=%239C9CFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> </h3>
 </div>
 <br />
 <br />
-<div align='center'>
+<!-- <div align='center'>
     다양한 분야에 관심을 가지고 공부하고 있습니다.<br />
     과거 웹 front에 관심이 많아 공부를 했습니다.<br /><br />
     현재는 인공지능의 학습에 있어 적은 데이터로 좋은 결과를 도출해내는 방법과<br />
     학습 모델의 구현 방법에 대해 공부하고 있습니다. <br /><br />
     궁금하고 호기심이 생기는 모든 분야에 대하여 공부하고자 하는 열망이 있습니다.<br />
-<div>
+<div> -->
 <br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho9702&count_private=true&show_icons=true&theme=)
