@@ -33,7 +33,7 @@
 <br>
 <div align = center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebluerabbit&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <div align = center>
     E-mail : <a>jiho9707@gmail.com</a>
 </div>
