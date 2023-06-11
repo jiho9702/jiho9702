@@ -7,6 +7,7 @@
 | ------------- | ------------- |
 
 <br />    
+
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=jiho9707)](https://solved.ac/profile/****)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
