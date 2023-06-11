@@ -6,8 +6,6 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho9702) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho9702) |
 | ------------- | ------------- |
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho9702&layout=compact)](https://github.com/****/github-readme-stats)
 <br />    
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=jiho9707)](https://solved.ac/profile/****)
 
