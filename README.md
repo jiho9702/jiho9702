@@ -29,6 +29,6 @@
 <br />
 
 
-E-mail : <a>jiho9707@gmail.com</a>
+E-mail : <a>jiho9707@gmail.com</a><br />
 Discord : 이지호#3663
 </div>
