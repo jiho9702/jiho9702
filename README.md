@@ -30,4 +30,5 @@
 
 
 E-mail : <a>jiho9707@gmail.com</a>
+Discord : 이지호#3663
 </div>
