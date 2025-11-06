@@ -4,7 +4,7 @@
 <!-- Contact + Solved.ac : 2열 배치 -->
 <table>
   <tr>
-    <td align="left" valign="middle">
+    <td align="center" valign="middle">
       <a href="mailto:jiho9707@gmail.com">
         <img src="https://img.shields.io/badge/Email-jiho9707%40gmail.com-000?style=flat&logo=gmail&logoColor=white" />
       </a>
