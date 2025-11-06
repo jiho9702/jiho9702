@@ -2,9 +2,9 @@
 <p align="center"><b>AI · Computer Vision · Robotics (ROS 2 / Jetson / Edge)</b></p>
 
 <!-- Contact + Solved.ac : 2열 배치 -->
-<table>
+<table align="center">
   <tr>
-    <td align="center" valign="middle">
+    <td align="left" valign="middle">
       <a href="mailto:jiho9707@gmail.com">
         <img src="https://img.shields.io/badge/Email-jiho9707%40gmail.com-000?style=flat&logo=gmail&logoColor=white" />
       </a>
